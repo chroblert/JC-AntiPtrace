@@ -38,7 +38,7 @@ int flag = 0;
 
 void show_helper(){
 	printf(
-		"\n\nJC-AntiPtrace-v1.o [-v] -p <zygote_pid> -t <appname> [-n 117] [-r0 [-e]]\n"
+		"\n\nJC-AntiPtrace-v1.o [-v] -p <zygote_pid> -t <appname> [-n <syscallNo>] [-r<returnValue> [-e]]\n"
 		"options:\n"
 		"\t-v : verbose\n"
 		"\t-p <zygote_pid> : pid of zygote or zygote64\n"
