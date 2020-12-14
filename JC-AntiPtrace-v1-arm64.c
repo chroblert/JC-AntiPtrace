@@ -62,7 +62,7 @@ void show_banner(){
 " ,88\"            88  \"\"\"\"\"\"\"\"        `8b  8PP\"\"\"\"\"\"\"  8b          \n"
 "88\"              88          Y8a     a8P  \"8b,   ,aa  \"8a,   ,aa  \n"
 "888888888888     88           \"Y88888P\"    `\"Ybbd8\"'   `\"Ybbd8\"'  \n"
-"\n\nTool: JC-AntiPtrace-v1.0\nAuthor: JC0o0l\nVersion: 1.0\nWeChat: JC_SecNotes\n"
+"\n\nTool: JC-AntiPtrace-v1.0\nAuthor: JC0o0l\nVersion: 1.0\nWeChat: JC_SecNotes\n\n"
 		  );
 }
 int syscall_tohook = 117;
