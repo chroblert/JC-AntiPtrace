@@ -12,6 +12,8 @@ Author: JC0o0l
 
 JC-AntiPtrace-v1-arm64.c
 
+具体信息见：https://www.freebuf.com/sectool/257766.html
+
 ## 适用场景
 
 1. zygote通过fork()系统调用，fork出一个app
